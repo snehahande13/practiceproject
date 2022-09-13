@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url><loc>http://localhost/practiceproject/web/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://localhost/practiceproject/web/about-us</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+<url><loc>http://localhost/practiceproject/web/articles</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://localhost/practiceproject/web/node/1</loc><lastmod>2022-09-12</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://localhost/practiceproject/web/about-us</loc><lastmod>2022-09-12</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://localhost/practiceproject/web/node/2</loc><lastmod>2022-09-12</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://localhost/practiceproject/web/node/3</loc><lastmod>2022-09-12</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+<url><loc>http://localhost/practiceproject/web/node/4</loc><lastmod>2022-09-12</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://localhost/practiceproject/web/node/5</loc><lastmod>2022-09-12</lastmod><changefreq>daily</changefreq></url>
+<url><loc>http://localhost/practiceproject/web/node/6</loc><lastmod>2022-09-12</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://localhost/practiceproject/web/node/7</loc><lastmod>2022-09-12</lastmod><changefreq>weekly</changefreq></url>
+<url><loc>http://localhost/practiceproject/web/node/8</loc><lastmod>2022-09-12</lastmod><changefreq>weekly</changefreq></url>
+</urlset>
