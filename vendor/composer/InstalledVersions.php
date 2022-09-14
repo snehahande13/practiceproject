@@ -25,12 +25,12 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '39596fec4fba6572327e59cc1bf30fdfdec27d12',
     'name' => 'drupal/recommended-project',
   ),
   'versions' => 
@@ -289,12 +289,12 @@ private static $installed = array (
     ),
     'drupal/config_split' => 
     array (
-      'pretty_version' => '2.0.0-rc3',
-      'version' => '2.0.0.0-RC3',
+      'pretty_version' => '2.0.0-rc4',
+      'version' => '2.0.0.0-RC4',
       'aliases' => 
       array (
       ),
-      'reference' => '2.0.0-rc3',
+      'reference' => '2.0.0-rc4',
     ),
     'drupal/config_translation' => 
     array (
@@ -826,12 +826,12 @@ private static $installed = array (
     ),
     'drupal/recommended-project' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '39596fec4fba6572327e59cc1bf30fdfdec27d12',
     ),
     'drupal/responsive_image' => 
     array (
@@ -1016,6 +1016,15 @@ private static $installed = array (
       array (
         0 => '8.9.20',
       ),
+    ),
+    'drupal/xmlsitemap' => 
+    array (
+      'pretty_version' => '1.2.0',
+      'version' => '1.2.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.2',
     ),
     'easyrdf/easyrdf' => 
     array (
