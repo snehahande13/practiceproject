@@ -1,0 +1,15 @@
+diff --git a/web/modules/contrib/xmlsitemap/src/XmlSitemapGenerator.php b/web/modules/contrib/xmlsitemap/src/XmlSitemapGenerator.php
+index 16fd9241..70d606f3 100644
+--- a/web/modules/contrib/xmlsitemap/src/XmlSitemapGenerator.php
++++ b/web/modules/contrib/xmlsitemap/src/XmlSitemapGenerator.php
+@@ -350,8 +350,8 @@ class XmlSitemapGenerator implements XmlSitemapGeneratorInterface {
+       if ($link['changefreq']) {
+         $element['changefreq'] = xmlsitemap_get_changefreq($link['changefreq']);
+       }
+-      if (isset($link['priority']) && $link['priority'] != 0.5) {
+-        // Don't output the priority value for links that have 0.5 priority.
++      if (isset($link['priority'])) {
++        // Output the priority value for links that have 0.5 priority.
+         // This is the default 'assumed' value if priority is not included as
+         // per the sitemaps.org specification.
+         $element['priority'] = number_format($link['priority'], 1);
